@@ -1,0 +1,31 @@
+Bonjour,
+comment j'ai fait le challenge warchall?
+comme ce qui est indiquée, on doit se placer dans /home/level/
+- cd /home/level/
+-ls -alR (un moyen de trouver plus rapidement les fichiers qui contiennent les mots de passes)
+Chapitre 1
+-pour level 0
+	cd 00_welcome/
+	cat README.md
+-pour level 1
+	cd 01_choice_tree/blue/hats/grey/solution/patience/
+	cat SOLUTION.txt
+-pour level 2
+	cd 02/.porb/
+	cat .solution
+-pour level 3
+	cd 03/
+	cat .bash_history
+-pour level 4
+	cd ~/
+	cd level/04_kwistaz
+	cat README2.md
+-pour level 5
+	cd /home/level/05_privacy/
+	cat README.md
+-pour le level 7
+	cd 07_tropical_fruits/
+	.level7/ (il informe de mettre en bypass)
+	D'après quelque recherche, il faut contourner les espaces interdits,la barre oblique inverse et la barre oblique.soit on contourne avec le codage hexadécimal puis verifier les fichiers inchangée.
+
+Merci de votre comprehension;
